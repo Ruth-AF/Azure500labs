@@ -1,2 +1,5 @@
 # Azure500labs
-This Repository contains lab projects for Azure500. Identity Management, Platform protection, Data and application security and Security operations
+This Repository contains lab projects for Azure500.
+
+Azure Tools used are:
+Lab01==Azure AD and Resource groups
